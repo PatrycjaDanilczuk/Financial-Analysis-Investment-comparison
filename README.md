@@ -40,4 +40,4 @@ The results have been provided in the project’s documentation – Excel file �
 ## 4. Communicating analysis results and providing actionable insights
 The conclusions from the analysis and recommended solution have been provided in in the project’s documentation – Excel file “Project tab”.
 
-Additionally, as a part of the project, a presentation for the business (the Company’s COO) has been prepared to communicate analysis results and recommendation. The presentation has been uploaded in the [PDF file]
+Additionally, as a part of the project, a presentation for the business (the Company’s COO) has been prepared to communicate analysis results and recommendation. The presentation has been uploaded in the [PDF file](https://github.com/PatrycjaDanilczuk/Financial-Analysis-Investment-comparison/blob/main/2.%20Investment%20comparison_presentation%20for%20COO_2024_pdanil.pdf)
