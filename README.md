@@ -1,6 +1,6 @@
 # Financial Analysis - Investment comparison
 
-The project has been prepared in the uploaded [EXCEL file]
+The project has been prepared in the uploaded [EXCEL file](https://github.com/PatrycjaDanilczuk/Financial-Analysis-Investment-comparison/blob/main/1.%20Financial%20Analyst_project_pdanil_20.05.2024.xlsx)
 
 # Project overview
 ## 1. Defining business problem
